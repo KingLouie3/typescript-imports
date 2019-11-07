@@ -21,7 +21,7 @@ Instructions
 * Export  the function
 * Import the function into index.ts
 * Invoke the function passing in the first name from person and storing the output in an exported variable called **salutations**
-* Convert Typescript into Javascript run the below code
+* Convert Typescript into Javascript run the beslow code
 ```
 $ tsc index.ts
 ```
